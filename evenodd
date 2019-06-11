@@ -1,0 +1,8 @@
+user = input("enter number")
+user = float(user)
+
+if user %2 == 0:
+    print("even")
+elif user %2 == 1:
+    print("odd")
+
